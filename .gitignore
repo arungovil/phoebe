@@ -3,8 +3,11 @@ dist/
 build/
 .gradle/
 local.properties
+*.jks
+*.keystore
 .pnpm-store/
 .pi/
+docs/releasing.md
 .env
 .env.*
 !.env.example

@@ -15,7 +15,7 @@ pi install ./packages/extension
 
 Restart Pi or use `/reload` to load it.
 
-Build and install the Android app with JDK 17 or 21, Android SDK 35, and adb:
+Build and install the Android app with JDK 25, Android SDK platform 37, and adb:
 
 ```sh
 cd packages/android

@@ -1,0 +1,16 @@
+{
+  "name": "phoebe",
+  "private": true,
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "packageManager": "pnpm@12.21.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/ws": "^8.18.2",
+    "typescript": "^7.0.2"
+  }
+}
